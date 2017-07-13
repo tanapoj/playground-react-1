@@ -1,0 +1,17 @@
+{
+  "title": "test data set",
+  "list":[
+    {
+      "id": 1,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "name": "Berta"
+    },
+    {
+      "id": 3,
+      "name": "Cilla"
+    }
+  ]
+}
